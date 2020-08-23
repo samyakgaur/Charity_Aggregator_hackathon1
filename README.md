@@ -1,3 +1,3 @@
 # Charity
-Te
+Tec
 This is a hackathon project made using meteor as the framework.
